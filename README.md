@@ -1,2 +1,2 @@
 # spoof-cleaner
-here lil nigga
+run in admin mode
